@@ -67,6 +67,13 @@ namespace News
 
             }
         }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            items.Clear();
+            load();
+        }
+
         private void listBox1_MouseDoubleClick_1(object sender, MouseEventArgs e)
         {
             int index = this.listBox1.IndexFromPoint(e.Location);
