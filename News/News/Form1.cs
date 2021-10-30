@@ -67,6 +67,15 @@ namespace News
 
             }
         }
+        private void listBox1_MouseDoubleClick_1(object sender, MouseEventArgs e)
+        {
+            int index = this.listBox1.IndexFromPoint(e.Location);
+            Item item = Array.Find(items.ToArray(), it => it.Id == index);
+            //System.Diagnostics.Debug.WriteLine(item.Link.ToString());
+            //MessageBox.Show(item.ToString());
+            ProcessStartInfo sInfo = new ProcessStartInfo(item.Link.ToString());
+            Process.Start(sInfo);
+        }
     }
 }
 

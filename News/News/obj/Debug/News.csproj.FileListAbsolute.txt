@@ -1,0 +1,6 @@
+C:\Users\MyPC\Desktop\NhomNews\News\News\obj\Debug\News.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\NhomNews\News\News\obj\Debug\News.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyPC\Desktop\NhomNews\News\News\obj\Debug\News.Form1.resources
+C:\Users\MyPC\Desktop\NhomNews\News\News\obj\Debug\News.Properties.Resources.resources
+C:\Users\MyPC\Desktop\NhomNews\News\News\obj\Debug\News.csproj.GenerateResource.cache
+C:\Users\MyPC\Desktop\NhomNews\News\News\obj\Debug\News.csproj.CoreCompileInputs.cache
